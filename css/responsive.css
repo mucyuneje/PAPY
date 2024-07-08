@@ -1,0 +1,37 @@
+/* Small phones (320px to 480px) */
+@media (max-width: 480px) {
+  /* Styles for small phones */
+}
+
+/* Medium phones (481px to 767px) */
+@media (min-width: 481px) and (max-width: 767px) {
+  /* Styles for medium phones */
+}
+
+/* Large phones and small tablets (768px to 1024px) */
+@media (min-width: 768px) and (max-width: 1024px) {
+  /* Styles for large phones and small tablets */
+}
+
+/* Tablets (600px to 768px) */
+@media (min-width: 600px) and (max-width: 768px) {
+  /* Styles for small tablets */
+}
+
+/* Laptops and small desktops (1024px to 1366px) */
+@media (min-width: 1024px) and (max-width: 1366px) {
+  /* Styles for laptops and small desktops */
+}
+
+/* Large desktops (1367px and above) */
+@media (min-width: 1367px) {
+  /* Styles for large desktops */
+}
+
+shadow
+You can adjust the values of text-shadow to achieve the desired effect:
+
+The first value (2px) is the horizontal shadow.
+The second value (2px) is the vertical shadow.
+The third value (5px) is the blur radius.
+The color (black) specifies the shadow color.
